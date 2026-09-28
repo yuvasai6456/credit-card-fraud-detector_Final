@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+*.log
+
+venv/
+.venv/
+
+# Ignore datasets
+data/
+*.csv
+
+# Ignore temporary files
+*.tmp
