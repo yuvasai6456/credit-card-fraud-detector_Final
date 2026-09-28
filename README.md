@@ -36,7 +36,7 @@ Target column:
 `is_fraud`
 
 ## Machine Learning Workflow
-
+```
 Dataset
 ↓
 Data Preprocessing
@@ -56,7 +56,7 @@ Threshold Tuning
 Model Evaluation
 ↓
 Model Packaging
-
+```
 ## Models Used
 
 ### Random Forest
