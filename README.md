@@ -91,6 +91,7 @@ The packaged model is stored as:
 
 ## Project Structure
 
+```text
 credit-card-fraud-detector/
 │
 ├── models/
@@ -100,6 +101,8 @@ credit-card-fraud-detector/
 │   └── EDPProject.ipynb
 │
 ├── results/
+│   ├── threshold_analysis.csv
+│   └── model_comparison.csv
 │
 ├── src/
 │   └── predict.py
@@ -107,6 +110,7 @@ credit-card-fraud-detector/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation
 
